@@ -22,7 +22,7 @@ SOFTWARE.
 
 # Photography
 
-The photos included are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/deed.en) (CC BY-NC 4.0 DEED).
+The photos included are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0 DEED).
 
 You are free to:
 
