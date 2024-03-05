@@ -22,6 +22,8 @@ SOFTWARE.
 
 # Photography
 
+Copyright (c) 2024 Rob Cameron
+
 The photos included are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0 DEED).
 
 You are free to:
